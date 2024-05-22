@@ -1,12 +1,5 @@
 # Realtime Chat
 
-A React Native + Django + Channels real-time communication app tutorial final project.
-
-![alt text](thumbnail.png)
-
-Youtube playlist link: https://www.youtube.com/playlist?list=PLswiMBSI75YtSVBBKUYY4dC20hQJ7OdAz
-
-
 ## Setup
 
 ```
